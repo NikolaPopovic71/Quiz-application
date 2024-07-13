@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz Application</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&family=Poetsen+One&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div id="initial-welcome-page">
+      <div class="glass-card">
+        <button onclick="chooseLanguage('en')" class="english">ENGLISH</button>
+        <button onclick="chooseLanguage('sr')" class="srpski">SRPSKI</button>
+      </div>
+    </div>
+
+    <div id="welcome-page">
+      <h1>WELCOME TO OUR CHEMISTRY QUIZ</h1>
+      <ul>
+        <li>There are 10 questions</li>
+        <li>Every right answer is 10 points</li>
+        <li>Total time for solving the quiz is 100 seconds</li>
+        <li>
+          If you solve the quiz in 30 seconds, you get a bonus of 50 points
+        </li>
+        <li>
+          If you solve the quiz in 60 seconds, you get a bonus of 30 points
+        </li>
+        <li>
+          At the end of the quiz, you will get a result and the possibility to
+          restart or exit the quiz
+        </li>
+      </ul>
+      <p>When you are ready click the button</p>
+      <button onclick="startQuiz()" class="btn-class-name" title="Start Quiz">
+        <span class="back"></span>
+        <span class="front"></span>
+      </button>
+    </div>
+
+    <div id="quiz-page">
+      <h2 id="question"></h2>
+      <div id="answers">
+        <button
+          class="answer"
+          onclick="checkAnswer(0)"
+          id="answer0"
+          title="Answer Option 1"
+        ></button>
+        <button
+          class="answer"
+          onclick="checkAnswer(1)"
+          id="answer1"
+          title="Answer Option 2"
+        ></button>
+        <button
+          class="answer"
+          onclick="checkAnswer(2)"
+          id="answer2"
+          title="Answer Option 3"
+        ></button>
+        <button
+          class="answer"
+          onclick="checkAnswer(3)"
+          id="answer3"
+          title="Answer Option 4"
+        ></button>
+      </div>
+      <p id="timer">Time: <span id="time">100</span>s</p>
+    </div>
+
+    <div id="result-modal" class="modal">
+      <div class="modal-content">
+        <p id="successful-answers"></p>
+        <p id="time-spent"></p>
+        <h2></h2>
+        <p><span id="final-points"></span></p>
+        <button onclick="startQuiz()" class="start-quiz">New Game</button>
+        <button onclick="closeModal()" class="exit">Exit</button>
+      </div>
+    </div>
+
+    <script src="fetchQuestions.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>

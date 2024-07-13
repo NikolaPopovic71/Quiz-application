@@ -1,0 +1,1058 @@
+[
+  {
+    "question": "Which isotope of carbon is used for determining the age of materials?",
+    "correct": "C-14",
+    "answers": ["C-14", "C-12", "C-13", "C-11"]
+  },
+  {
+    "question": "Which nitrogen oxide affects blood pressure?",
+    "correct": "Nitrogen(II) oxide (NO)",
+    "answers": [
+      "Nitrogen(II) oxide (NO)",
+      "Nitrogen(I) oxide (N<sub>2</sub>O)",
+      "Nitrogen(III) oxide (N<sub>2</sub>O<sub>3</sub>)",
+      "Nitrogen(IV) oxide (NO<sub>2</sub>)"
+    ]
+  },
+  {
+    "question": "Which nitrogen compounds are toxic?",
+    "correct": "Hydrogen cyanide, nitrogen dioxide, and ammonia",
+    "answers": [
+      "Hydrogen cyanide, nitrogen dioxide, and ammonia",
+      "Hydrogen sulfide, nitrogen trioxide, and urea",
+      "Nitric acid, ammonia, and nitrogen tetroxide",
+      "Ammonium nitrate, nitrogen pentoxide, and urea"
+    ]
+  },
+  {
+    "question": "Which nitrogen oxide can cause laughter?",
+    "correct": "Nitrogen(I) oxide (N<sub>2</sub>O)",
+    "answers": [
+      "Nitrogen(I) oxide (N<sub>2</sub>O)",
+      "Nitrogen(II) oxide (NO)",
+      "Nitrogen(III) oxide (N<sub>2</sub>O<sub>3</sub>)",
+      "Nitrogen(IV) oxide (NO<sub>2</sub>)"
+    ]
+  },
+  {
+    "question": "How many oxygen atoms does ozone have?",
+    "correct": "3",
+    "answers": ["3", "1", "2", "4"]
+  },
+  {
+    "question": "What is ozone?",
+    "correct": "An allotrope of oxygen",
+    "answers": [
+      "An allotrope of oxygen",
+      "A compound of oxygen and nitrogen",
+      "An isotope of oxygen",
+      "A type of oxygen molecule"
+    ]
+  },
+  {
+    "question": "The content of which amino acid in the protein keratin determines whether hair will be straight or curly?",
+    "correct": "Cysteine",
+    "answers": ["Cysteine", "Methionine", "Lysine", "Arginine"]
+  },
+  {
+    "question": "Which chemical element has the strongest oxidizing potential?",
+    "correct": "Fluorine",
+    "answers": ["Fluorine", "Oxygen", "Chlorine", "Bromine"]
+  },
+  {
+    "question": "Tritium is an isotope of hydrogen. How many protons and neutrons does its atomic nucleus consist of?",
+    "correct": "1 proton and 2 neutrons",
+    "answers": [
+      "1 proton and 2 neutrons",
+      "1 proton and 1 neutron",
+      "2 protons and 1 neutron",
+      "2 protons and 2 neutrons"
+    ]
+  },
+  {
+    "question": "Deuterium is an isotope of hydrogen. How many protons and neutrons does its atomic nucleus consist of?",
+    "correct": "1 proton and 1 neutron",
+    "answers": [
+      "1 proton and 1 neutron",
+      "1 proton and 2 neutrons",
+      "2 protons and 1 neutron",
+      "2 protons and 2 neutrons"
+    ]
+  },
+  {
+    "question": "What does Avogadro's number represent?",
+    "correct": "The number of particles in one mole of substance",
+    "answers": [
+      "The number of particles in one mole of substance",
+      "The number of atoms in a molecule",
+      "The number of molecules in a liter of gas",
+      "The number of protons in an atom"
+    ]
+  },
+  {
+    "question": "What is the refractory vessel with the mark PYREX made of?",
+    "correct": "Borosilicate glass",
+    "answers": [
+      "Borosilicate glass",
+      "Quartz glass",
+      "Soda-lime glass",
+      "Lead glass"
+    ]
+  },
+  {
+    "question": "Metaborates that contain bound hydrogen peroxide, used for washing and bleaching wool and silk, are?",
+    "correct": "Perborates",
+    "answers": ["Perborates", "Borates", "Peroxides", "Silicates"]
+  },
+  {
+    "question": "Which iron compound gives the red color to the surface of Mars?",
+    "correct": "Iron(III) oxide",
+    "answers": [
+      "Iron(III) oxide",
+      "Iron(II) oxide",
+      "Iron(III) sulfate",
+      "Iron(II) chloride"
+    ]
+  },
+  {
+    "question": "Silicon oxide is inert but reacts with one acid. Which one?",
+    "correct": "Hydrofluoric acid",
+    "answers": [
+      "Hydrofluoric acid",
+      "Sulfuric acid",
+      "Nitric acid",
+      "Phosphoric acid"
+    ]
+  },
+  {
+    "question": "What are the stinging hairs of nettles made of?",
+    "correct": "Silicon dioxide",
+    "answers": [
+      "Silicon dioxide",
+      "Calcium carbonate",
+      "Magnesium oxide",
+      "Aluminum oxide"
+    ]
+  },
+  {
+    "question": "Lewisite (dichloro(2-chlorovinyl)arsine) is a blister agent. What compound is the antidote?",
+    "correct": "2,3-Dimercaptopropanol",
+    "answers": [
+      "2,3-Dimercaptopropanol",
+      "Atropine",
+      "Activated charcoal",
+      "Sodium thiosulfate"
+    ]
+  },
+  {
+    "question": "Arsenic poisoning, if detected in time, can be treated by administering what?",
+    "correct": "2,3-Dimercaptopropanol",
+    "answers": [
+      "2,3-Dimercaptopropanol",
+      "Vitamin K",
+      "Chelating agents",
+      "Antibiotics"
+    ]
+  },
+  {
+    "question": "Which plant absorbs a large amount of arsenic from contaminated soil?",
+    "correct": "Chinese brake fern (Pteris vittata)",
+    "answers": [
+      "Chinese brake fern (Pteris vittata)",
+      "Sunflower",
+      "Corn",
+      "Mustard plant"
+    ]
+  },
+  {
+    "question": "What is the allotrope modification of carbon whose molecule contains 60 or more atoms called?",
+    "correct": "Fullerene",
+    "answers": ["Fullerene", "Graphene", "Diamond", "Carbon nanotube"]
+  },
+  {
+    "question": "What are the allotrope modifications of carbon?",
+    "correct": "Graphite, diamond, and fullerene",
+    "answers": [
+      "Graphite, diamond, and fullerene",
+      "Graphite, diamond, and graphene",
+      "Graphene, diamond, and fullerene",
+      "Graphene, graphite, and carbon nanotube"
+    ]
+  },
+  {
+    "question": "Which chemical element is associated with 'plague'?",
+    "correct": "Tin",
+    "answers": ["Tin", "Lead", "Mercury", "Arsenic"]
+  },
+  {
+    "question": "What is 'tin plague'?",
+    "correct": "Transition from one allotrope modification to another",
+    "answers": [
+      "Transition from one allotrope modification to another",
+      "Oxidation of tin",
+      "Corrosion of tin",
+      "Reduction of tin"
+    ]
+  },
+  {
+    "question": "Which chemical element is non-toxic in its elemental and inorganic compound forms, but toxic in organic compounds?",
+    "correct": "Tin",
+    "answers": ["Tin", "Lead", "Mercury", "Cadmium"]
+  },
+  {
+    "question": "Tributyl- compounds of which chemical element are used in ship paints?",
+    "correct": "Tin",
+    "answers": ["Tin", "Copper", "Zinc", "Nickel"]
+  },
+  {
+    "question": "Which lead compound prevents engine knocking?",
+    "correct": "Tetraethyl lead",
+    "answers": [
+      "Tetraethyl lead",
+      "Lead acetate",
+      "Lead oxide",
+      "Lead chloride"
+    ]
+  },
+  {
+    "question": "Which lead compound was once used to sweeten wine?",
+    "correct": "Lead acetate",
+    "answers": ["Lead acetate", "Lead nitrate", "Lead oxide", "Lead chloride"]
+  },
+  {
+    "question": "What are metalloids?",
+    "correct": "Chemical elements with chemical properties of non-metals and physical properties of metals",
+    "answers": [
+      "Chemical elements with chemical properties of non-metals and physical properties of metals",
+      "Chemical elements with properties of both metals and gases",
+      "Chemical elements that are entirely metallic",
+      "Chemical elements that are entirely non-metallic"
+    ]
+  },
+  {
+    "question": "What is borax?",
+    "correct": "Salt",
+    "answers": ["Salt", "Acid", "Base", "Oxide"]
+  },
+  {
+    "question": "What is the chemical formula of borax?",
+    "correct": "Na-tetraborate x 10 H<sub>2</sub>O",
+    "answers": [
+      "Na-tetraborate x 10 H<sub>2</sub>O",
+      "Na<sub>2</sub>B<sub>4</sub>O<sub>7</sub>",
+      "Na<sub>3</sub>BO<sub>3</sub>",
+      "NaBO<sub>2</sub>"
+    ]
+  },
+  {
+    "question": "What are the two preservatives on the positive list of food additives labeled E284 and E285?",
+    "correct": "Boric acid and borax",
+    "answers": [
+      "Boric acid and borax",
+      "Benzoic acid and sodium benzoate",
+      "Sorbic acid and potassium sorbate",
+      "Ascorbic acid and citric acid"
+    ]
+  },
+  {
+    "question": "Which two metals do not form amalgams?",
+    "correct": "Iron and platinum",
+    "answers": [
+      "Iron and platinum",
+      "Gold and silver",
+      "Copper and zinc",
+      "Nickel and tin"
+    ]
+  },
+  {
+    "question": "Which country is named after silver?",
+    "correct": "Argentina",
+    "answers": ["Argentina", "Australia", "Armenia", "Austria"]
+  },
+  {
+    "question": "Compounds of which element are responsible for the tarnishing of silver items?",
+    "correct": "Sulfur",
+    "answers": ["Sulfur", "Chlorine", "Oxygen", "Nitrogen"]
+  },
+  {
+    "question": "What materials can be used to clean tarnished silver?",
+    "correct": "Mild acids and aluminum",
+    "answers": [
+      "Mild acids and aluminum",
+      "Water and soap",
+      "Vinegar and baking soda",
+      "Lemon juice and salt"
+    ]
+  },
+  {
+    "question": "What is silver coated with to protect it from tarnishing?",
+    "correct": "Rhodium",
+    "answers": ["Rhodium", "Gold", "Platinum", "Nickel"]
+  },
+  {
+    "question": "Which acids in a 3:1 ratio make up 'aqua regia'?",
+    "correct": "Hydrochloric and nitric acid",
+    "answers": [
+      "Hydrochloric and nitric acid",
+      "Sulfuric and hydrochloric acid",
+      "Acetic and citric acid",
+      "Phosphoric and lactic acid"
+    ]
+  },
+  {
+    "question": "What dissolves gold?",
+    "correct": "Aqua regia",
+    "answers": [
+      "Aqua regia",
+      "Hydrochloric acid",
+      "Nitric acid",
+      "Sulfuric acid"
+    ]
+  },
+  {
+    "question": "What does 1 carat represent?",
+    "correct": "4.2% noble metal content in an alloy",
+    "answers": [
+      "4.2% noble metal content in an alloy",
+      "5.0% noble metal content in an alloy",
+      "3.5% noble metal content in an alloy",
+      "2.8% noble metal content in an alloy"
+    ]
+  },
+  {
+    "question": "What number of carats represents the highest purity of a noble metal?",
+    "correct": "24",
+    "answers": ["24", "18", "22", "20"]
+  },
+  {
+    "question": "'Dental gold' is an alloy of gold (about 75%) with which metals?",
+    "correct": "Silver, palladium, and zinc",
+    "answers": [
+      "Silver, palladium, and zinc",
+      "Copper, platinum, and tin",
+      "Nickel, iron, and aluminum",
+      "Titanium, lead, and chromium"
+    ]
+  },
+  {
+    "question": "What metals are coinage alloys primarily made of?",
+    "correct": "Copper and nickel",
+    "answers": [
+      "Copper and nickel",
+      "Zinc and tin",
+      "Iron and aluminum",
+      "Silver and gold"
+    ]
+  },
+  {
+    "question": "How many grams of iron does the average human body contain?",
+    "correct": "3-4 g",
+    "answers": ["3-4 g", "1-2 g", "5-6 g", "7-8 g"]
+  },
+  {
+    "question": "What is hemoglobin by chemical structure?",
+    "correct": "Protein",
+    "answers": ["Protein", "Carbohydrate", "Lipid", "Mineral"]
+  },
+  {
+    "question": "Which vitamin facilitates the absorption of iron in the human body?",
+    "correct": "Vitamin C",
+    "answers": ["Vitamin C", "Vitamin D", "Vitamin B12", "Vitamin K"]
+  },
+  {
+    "question": "Foods rich in what reduce iron absorption in the human body?",
+    "correct": "Phosphates",
+    "answers": ["Phosphates", "Calcium", "Vitamin D", "Fiber"]
+  },
+  {
+    "question": "What is responsible for the red color of blood?",
+    "correct": "Complex of divalent iron ions in hemoglobin",
+    "answers": [
+      "Complex of divalent iron ions in hemoglobin",
+      "Hemoglobin",
+      "Myoglobin",
+      "Erythrocytes"
+    ]
+  },
+  {
+    "question": "What gives octopus blood its blue color?",
+    "correct": "Complex of copper ions in hemocyanin",
+    "answers": [
+      "Complex of copper ions in hemocyanin",
+      "Complex of iron ions in hemoglobin",
+      "Hemoglobin",
+      "Myoglobin"
+    ]
+  },
+  {
+    "question": "Into which compound did hatters once dip rabbit furs?",
+    "correct": "Mercury(II) nitrate",
+    "answers": [
+      "Mercury(II) nitrate",
+      "Sodium nitrate",
+      "Copper sulfate",
+      "Silver nitrate"
+    ]
+  },
+  {
+    "question": "Which element strongly attracts mercury?",
+    "correct": "Sulfur",
+    "answers": ["Sulfur", "Iron", "Lead", "Copper"]
+  },
+  {
+    "question": "What is the primary element of amalgam?",
+    "correct": "Mercury",
+    "answers": ["Mercury", "Silver", "Tin", "Gold"]
+  },
+  {
+    "question": "Who is the godfather of the symbols of chemical elements?",
+    "correct": "Jens Jakob Berzelius",
+    "answers": [
+      "Jens Jakob Berzelius",
+      "Dmitri Mendeleev",
+      "Marie Curie",
+      "John Dalton"
+    ]
+  },
+  {
+    "question": "What is the smallest particle of a chemical element?",
+    "correct": "Atom",
+    "answers": ["Atom", "Molecule", "Proton", "Electron"]
+  },
+  {
+    "question": "The number of 7 periods in the periodic table corresponds to the total number of what?",
+    "correct": "Energy levels",
+    "answers": ["Energy levels", "Elements", "Valence electrons", "Neutrons"]
+  },
+  {
+    "question": "Relative atomic mass is a number that shows how many times the mass of an atom of an element is greater than?",
+    "correct": "1/12 the mass of a carbon-12 atom",
+    "answers": [
+      "1/12 the mass of a carbon-12 atom",
+      "1/16 the mass of an oxygen-16 atom",
+      "1/14 the mass of a nitrogen-14 atom",
+      "1/2 the mass of a hydrogen atom"
+    ]
+  },
+  {
+    "question": "What determines the valence of a chemical element?",
+    "correct": "Number of electrons participating in bond formation",
+    "answers": [
+      "Number of electrons participating in bond formation",
+      "Number of protons",
+      "Atomic number",
+      "Atomic mass"
+    ]
+  },
+  {
+    "question": "The ability of an atom of an element to form chemical bonds with atoms of the same or other elements is called?",
+    "correct": "Valency",
+    "answers": [
+      "Valency",
+      "Electronegativity",
+      "Ionization energy",
+      "Atomic radius"
+    ]
+  },
+  {
+    "question": "What color does lithium chloride (LiCl) turn the flame of a Bunsen burner?",
+    "correct": "Carmine red",
+    "answers": ["Carmine red", "Yellow", "Green", "Blue"]
+  },
+  {
+    "question": "What color does sodium chloride (NaCl) turn the flame of a Bunsen burner?",
+    "correct": "Yellow",
+    "answers": ["Yellow", "Red", "Green", "Blue"]
+  },
+  {
+    "question": "What is the chemical composition of 'Chile saltpeter'?",
+    "correct": "Sodium nitrate (NaNO<sub>3</sub>)",
+    "answers": [
+      "Sodium nitrate (NaNO<sub>3</sub>)",
+      "Sodium sulfate (Na<sub>2</sub>SO<sub>4</sub>)",
+      "Potassium nitrate (KNO<sub>3</sub>)",
+      "Ammonium nitrate (NH<sub>4</sub>NO<sub>3</sub>)"
+    ]
+  },
+  {
+    "question": "Which sodium compound is used in the mixture that fills airbags in cars?",
+    "correct": "Sodium azide (NaN<sub>3</sub>)",
+    "answers": [
+      "Sodium azide (NaN<sub>3</sub>)",
+      "Sodium chloride (NaCl)",
+      "Sodium bicarbonate (NaHCO<sub>3</sub>)",
+      "Sodium sulfate (Na<sub>2</sub>SO<sub>4</sub>)"
+    ]
+  },
+  {
+    "question": "What percentage (%) of sodium chloride (NaCl) does the infusion solution contain?",
+    "correct": "0.9%",
+    "answers": ["0.9%", "1.5%", "2.0%", "0.5%"]
+  },
+  {
+    "question": "What is the recommended daily dose of potassium (K) in g?",
+    "correct": "About 3.5 g",
+    "answers": ["About 3.5 g", "About 2.0 g", "About 4.5 g", "About 5.0 g"]
+  },
+  {
+    "question": "Which potassium compound serves as a source of oxygen in places with a lack of oxygen in the air?",
+    "correct": "Potassium superoxide (KO<sub>2</sub>)",
+    "answers": [
+      "Potassium superoxide (KO<sub>2</sub>)",
+      "Potassium chloride (KCl)",
+      "Potassium nitrate (KNO<sub>3</sub>)",
+      "Potassium permanganate (KMnO<sub>4</sub>)"
+    ]
+  },
+  {
+    "question": "With which gas does potassium superoxide react to produce the missing oxygen?",
+    "correct": "Carbon dioxide (CO<sub>2</sub>)",
+    "answers": [
+      "Carbon dioxide (CO<sub>2</sub>)",
+      "Oxygen (O<sub>2</sub>)",
+      "Nitrogen (N<sub>2</sub>)",
+      "Helium (He)"
+    ]
+  },
+  {
+    "question": "Which potassium compound, when used to 'salt' clouds, doubles the amount of precipitation?",
+    "correct": "Potassium chloride (KCl)",
+    "answers": [
+      "Potassium chloride (KCl)",
+      "Potassium nitrate (KNO<sub>3</sub>)",
+      "Potassium sulfate (K<sub>2</sub>SO<sub>4</sub>)",
+      "Potassium iodide (KI)"
+    ]
+  },
+  {
+    "question": "Which chemical element (metal) is found in the chlorophyll molecule?",
+    "correct": "Magnesium (Mg)",
+    "answers": ["Magnesium (Mg)", "Calcium (Ca)", "Iron (Fe)", "Potassium (K)"]
+  },
+  {
+    "question": "How is a magnesium fire extinguished?",
+    "correct": "Covering with sand",
+    "answers": ["Covering with sand", "Water", "Carbon dioxide", "Foam"]
+  },
+  {
+    "question": "Bicycle frames for racing are made from an alloy of which metal?",
+    "correct": "Magnesium (Mg)",
+    "answers": [
+      "Magnesium (Mg)",
+      "Aluminum (Al)",
+      "Titanium (Ti)",
+      "Carbon (C)"
+    ]
+  },
+  {
+    "question": "How many times lighter is a bicycle frame made of magnesium alloy compared to one made of iron or aluminum?",
+    "correct": "5 times and 1.5 times",
+    "answers": [
+      "5 times and 1.5 times",
+      "3 times and 2 times",
+      "2 times and 4 times",
+      "1.5 times and 5 times"
+    ]
+  },
+  {
+    "question": "Which magnesium compound, also known as Epsom salt, is used as a laxative?",
+    "correct": "Magnesium sulfate (MgSO<sub>4</sub>)",
+    "answers": [
+      "Magnesium sulfate (MgSO<sub>4</sub>)",
+      "Magnesium chloride (MgCl<sub>2</sub>)",
+      "Magnesium carbonate (MgCO<sub>3</sub>)",
+      "Magnesium hydroxide (Mg(OH)<sub>2</sub>)"
+    ]
+  },
+  {
+    "question": "What is the most widespread calcium compound?",
+    "correct": "Calcium carbonate (CaCO<sub>3</sub>)",
+    "answers": [
+      "Calcium carbonate (CaCO<sub>3</sub>)",
+      "Calcium sulfate (CaSO<sub>4</sub>)",
+      "Calcium chloride (CaCl<sub>2</sub>)",
+      "Calcium hydroxide (Ca(OH)<sub>2</sub>)"
+    ]
+  },
+  {
+    "question": "What is the chemical formula for 'quicklime'?",
+    "correct": "Calcium oxide (CaO)",
+    "answers": [
+      "Calcium oxide (CaO)",
+      "Calcium hydroxide (Ca(OH)<sub>2</sub>)",
+      "Calcium carbonate (CaCO<sub>3</sub>)",
+      "Calcium chloride (CaCl<sub>2</sub>)"
+    ]
+  },
+  {
+    "question": "What is the chemical formula for slaked lime?",
+    "correct": "Calcium hydroxide (Ca(OH)<sub>2</sub>)",
+    "answers": [
+      "Calcium hydroxide (Ca(OH)<sub>2</sub>)",
+      "Calcium oxide (CaO)",
+      "Calcium carbonate (CaCO<sub>3</sub>)",
+      "Calcium sulfate (CaSO<sub>4</sub>)"
+    ]
+  },
+  {
+    "question": "What is the recommended daily dose of calcium (Ca)?",
+    "correct": "About 1 g",
+    "answers": ["About 1 g", "About 0.5 g", "About 2 g", "About 1.5 g"]
+  },
+  {
+    "question": "Which two calcium compounds form 'kidney stones'?",
+    "correct": "Calcium oxalate and calcium phosphate",
+    "answers": [
+      "Calcium oxalate and calcium phosphate",
+      "Calcium sulfate and calcium chloride",
+      "Calcium carbonate and calcium sulfate",
+      "Calcium hydroxide and calcium carbonate"
+    ]
+  },
+  {
+    "question": "Which two ions combine with calcium ions to form 'gallstones'?",
+    "correct": "Bilirubin ions and carbonate ions",
+    "answers": [
+      "Bilirubin ions and carbonate ions",
+      "Sulfate ions and chloride ions",
+      "Phosphate ions and oxalate ions",
+      "Hydroxide ions and nitrate ions"
+    ]
+  },
+  {
+    "question": "What is lithopone?",
+    "correct": "A pigment of shiny white color",
+    "answers": [
+      "A pigment of shiny white color",
+      "A type of clay",
+      "A form of calcium carbonate",
+      "A type of glass"
+    ]
+  },
+  {
+    "question": "Lithopone is a mixture of which chemical compounds?",
+    "correct": "Barium sulfate (BaSO<sub>4</sub>) and zinc sulfide (ZnS)",
+    "answers": [
+      "Barium sulfate (BaSO<sub>4</sub>) and zinc sulfide (ZnS)",
+      "Barium chloride (BaCl<sub>2</sub>) and zinc oxide (ZnO)",
+      "Barium nitrate (Ba(NO3)<sub>2</sub>) and zinc carbonate (ZnCO<sub>3</sub>)",
+      "Barium hydroxide (Ba(OH)<sub>2</sub>) and zinc sulfate (ZnSO<sub>4</sub>)"
+    ]
+  },
+  {
+    "question": "What color do barium salts (Ba) turn the flame of a Bunsen burner?",
+    "correct": "Green",
+    "answers": ["Green", "Blue", "Yellow", "Red"]
+  },
+  {
+    "question": "Which metal is the most abundant in the Earth's crust?",
+    "correct": "Aluminum (Al)",
+    "answers": ["Aluminum (Al)", "Iron (Fe)", "Silicon (Si)", "Oxygen (O)"]
+  },
+  {
+    "question": "What is the most important ore of aluminum?",
+    "correct": "Bauxite",
+    "answers": ["Bauxite", "Hematite", "Magnetite", "Galena"]
+  },
+  {
+    "question": "Which copper compound is responsible for the green color ('green patina') of roofs made of this metal?",
+    "correct": "Copper basic carbonate (CuCO<sub>3</sub> x Cu(OH)<sub>2</sub>)",
+    "answers": [
+      "Copper basic carbonate (CuCO<sub>3</sub> x Cu(OH)<sub>2</sub>)",
+      "Copper sulfate (CuSO<sub>4</sub>)",
+      "Copper oxide (CuO)",
+      "Copper chloride (CuCl<sub>2</sub>)"
+    ]
+  },
+  {
+    "question": "What is the chemical composition of 'blue vitriol'?",
+    "correct": "Copper(II) sulfate pentahydrate (CuSO<sub>4</sub> x 5H<sub>2</sub>O)",
+    "answers": [
+      "Copper(II) sulfate pentahydrate (CuSO<sub>4</sub> x 5H<sub>2</sub>O)",
+      "Copper(II) chloride (CuCl<sub>2</sub>)",
+      "Copper(I) oxide (Cu<sub>2</sub>O)",
+      "Copper(II) nitrate (Cu(NO3)<sub>2</sub>)"
+    ]
+  },
+  {
+    "question": "What color are the crystals of anhydrous copper(II) sulfate?",
+    "correct": "Greenish white or grayish white",
+    "answers": ["Greenish white or grayish white", "Blue", "Red", "Yellow"]
+  },
+
+  {
+    "question": "What is the chemical formula for water?",
+    "correct": "H<sub>2</sub>O",
+    "answers": [
+      "H<sub>2</sub>O",
+      "H<sub>2</sub>O<sub>2</sub>",
+      "H<sub>2</sub>S",
+      "HO"
+    ]
+  },
+  {
+    "question": "What is the chemical formula for table salt?",
+    "correct": "NaCl",
+    "answers": ["NaCl", "KCl", "NaOH", "CaCl<sub>2</sub>"]
+  },
+  {
+    "question": "Balance the equation: NaOH + HCl = NaCl + H<sub>2</sub>O",
+    "correct": "NaOH + HCl = NaCl + H<sub>2</sub>O",
+    "answers": [
+      "NaOH + HCl = NaCl + H<sub>2</sub>O",
+      "NaOH + HCl = NaCl + H<sub>2</sub>O<sub>2</sub>",
+      "NaOH + HCl = NaCl<sub>2</sub> + H<sub>2</sub>O",
+      "NaOH + H<sub>2</sub>O = NaCl + HCl"
+    ]
+  },
+  {
+    "question": "What is the most abundant element in the Earth's crust?",
+    "correct": "Oxygen",
+    "answers": ["Oxygen", "Silicon", "Aluminum", "Iron"]
+  },
+  {
+    "question": "What is the most abundant element in the air?",
+    "correct": "Nitrogen",
+    "answers": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"]
+  },
+  {
+    "question": "What is the most abundant element in the universe?",
+    "correct": "Hydrogen",
+    "answers": ["Hydrogen", "Helium", "Oxygen", "Carbon"]
+  },
+  {
+    "question": "What is the lightest element?",
+    "correct": "Hydrogen",
+    "answers": ["Hydrogen", "Helium", "Lithium", "Beryllium"]
+  },
+  {
+    "question": "What is the heaviest element?",
+    "correct": "Oganesson",
+    "answers": ["Oganesson", "Uranium", "Plutonium", "Radon"]
+  },
+  {
+    "question": "Which element has the lowest density?",
+    "correct": "Hydrogen",
+    "answers": ["Hydrogen", "Helium", "Lithium", "Neon"]
+  },
+  {
+    "question": "Which element has the highest density?",
+    "correct": "Osmium",
+    "answers": ["Osmium", "Iridium", "Platinum", "Gold"]
+  },
+  {
+    "question": "What is the lightest metal?",
+    "correct": "Lithium",
+    "answers": ["Lithium", "Sodium", "Potassium", "Magnesium"]
+  },
+  {
+    "question": "What is the heaviest metal?",
+    "correct": "Osmium",
+    "answers": ["Osmium", "Iridium", "Platinum", "Gold"]
+  },
+  {
+    "question": "What is the best conductor of electricity?",
+    "correct": "Silver",
+    "answers": ["Silver", "Copper", "Gold", "Aluminum"]
+  },
+  {
+    "question": "What is the worst conductor of electricity?",
+    "correct": "Sulfur",
+    "answers": ["Sulfur", "Rubber", "Wood", "Water"]
+  },
+  {
+    "question": "What is the hardest element?",
+    "correct": "Carbon in the form of diamond",
+    "answers": [
+      "Carbon in the form of diamond",
+      "Boron",
+      "Tungsten",
+      "Chromium"
+    ]
+  },
+  {
+    "question": "What is the softest element?",
+    "correct": "Cesium",
+    "answers": ["Cesium", "Rubidium", "Lead", "Gold"]
+  },
+  {
+    "question": "What is the most liquid element at 25°C?",
+    "correct": "Mercury",
+    "answers": ["Mercury", "Bromine", "Gallium", "Cesium"]
+  },
+  {
+    "question": "Which metal reflects light best?",
+    "correct": "Silver",
+    "answers": ["Silver", "Gold", "Aluminum", "Platinum"]
+  },
+  {
+    "question": "Who thought everything originated from water?",
+    "correct": "Thales",
+    "answers": ["Thales", "Anaximenes", "Heraclitus", "Empedocles"]
+  },
+  {
+    "question": "Who thought everything originated from air?",
+    "correct": "Anaximenes",
+    "answers": ["Anaximenes", "Thales", "Heraclitus", "Empedocles"]
+  },
+  {
+    "question": "Who thought everything originated from fire?",
+    "correct": "Heraclitus",
+    "answers": ["Heraclitus", "Thales", "Anaximenes", "Empedocles"]
+  },
+  {
+    "question": "Who introduced four principles as the drivers of everything?",
+    "correct": "Empedocles",
+    "answers": ["Empedocles", "Thales", "Anaximenes", "Heraclitus"]
+  },
+  {
+    "question": "What are the four principles of Empedocles?",
+    "correct": "Fire, Water, Air, Earth",
+    "answers": [
+      "Fire, Water, Air, Earth",
+      "Fire, Water, Metal, Wood",
+      "Fire, Earth, Metal, Water",
+      "Water, Air, Wood, Earth"
+    ]
+  },
+  {
+    "question": "What is the fifth element added by Aristotle to Empedocles' four principles?",
+    "correct": "Aether",
+    "answers": ["Aether", "Quintessence", "Soul", "Spirit"]
+  },
+  {
+    "question": "How many chemical elements were known by the end of the 18th century?",
+    "correct": "28",
+    "answers": ["28", "30", "25", "20"]
+  },
+  {
+    "question": "Who first introduced triads in the systematization of chemical elements?",
+    "correct": "Johann Döbereiner",
+    "answers": [
+      "Johann Döbereiner",
+      "Dmitri Mendeleev",
+      "Jöns Jacob Berzelius",
+      "Robert Boyle"
+    ]
+  },
+  {
+    "question": "How many chemical elements were known when Mendeleev created his table?",
+    "correct": "63",
+    "answers": ["63", "60", "65", "70"]
+  },
+  {
+    "question": "Mendeleev predicted the discovery of eka-aluminum, which is today's element?",
+    "correct": "Gallium",
+    "answers": ["Gallium", "Indium", "Thallium", "Aluminum"]
+  },
+  {
+    "question": "Mendeleev predicted the discovery of eka-boron, which is today's element?",
+    "correct": "Scandium",
+    "answers": ["Scandium", "Yttrium", "Lanthanum", "Actinium"]
+  },
+  {
+    "question": "Mendeleev predicted the discovery of eka-silicon, which is today's element?",
+    "correct": "Germanium",
+    "answers": ["Germanium", "Silicon", "Tin", "Lead"]
+  },
+  {
+    "question": "How many known chemical elements are there today?",
+    "correct": "118",
+    "answers": ["118", "120", "115", "112"]
+  },
+  {
+    "question": "Who discovered gallium and when?",
+    "correct": "Paul-Émile Lecoq de Boisbaudran in 1875",
+    "answers": [
+      "Paul-Émile Lecoq de Boisbaudran in 1875",
+      "Henri Moissan in 1893",
+      "André-Louis Debierne in 1900",
+      "Marie Curie in 1911"
+    ]
+  },
+  {
+    "question": "Who discovered scandium and when?",
+    "correct": "Lars Fredrik Nilson in 1879",
+    "answers": [
+      "Lars Fredrik Nilson in 1879",
+      "Carl Gustav Mosander in 1843",
+      "Per Teodor Cleve in 1879",
+      "Paul-Émile Lecoq de Boisbaudran in 1875"
+    ]
+  },
+  {
+    "question": "Who discovered germanium and when?",
+    "correct": "Clemens Winkler in 1886",
+    "answers": [
+      "Clemens Winkler in 1886",
+      "Paul-Émile Lecoq de Boisbaudran in 1875",
+      "Henri Moissan in 1893",
+      "André-Louis Debierne in 1900"
+    ]
+  },
+  {
+    "question": "How many groups and periods are there in the periodic table of elements?",
+    "correct": "18 groups and 7 periods",
+    "answers": [
+      "18 groups and 7 periods",
+      "16 groups and 7 periods",
+      "18 groups and 8 periods",
+      "17 groups and 7 periods"
+    ]
+  },
+  {
+    "question": "What is the atomic number of Mendelevium (Md) in the periodic table?",
+    "correct": "101",
+    "answers": ["101", "100", "102", "103"]
+  },
+  {
+    "question": "What determines the position of elements in the periodic table?",
+    "correct": "Their atomic number",
+    "answers": [
+      "Their atomic number",
+      "Their mass number",
+      "Their density",
+      "Their electronegativity"
+    ]
+  },
+  {
+    "question": "How do isotopes of one element differ?",
+    "correct": "By mass number",
+    "answers": [
+      "By mass number",
+      "By atomic number",
+      "By density",
+      "By melting point"
+    ]
+  },
+  {
+    "question": "What causes the difference in mass numbers of isotopes of an element?",
+    "correct": "By neutrons",
+    "answers": ["By neutrons", "By protons", "By electrons", "By quarks"]
+  },
+  {
+    "question": "Where does the name of the element Dubnium come from?",
+    "correct": "From the town of Dubna near Moscow",
+    "answers": [
+      "From the town of Dubna near Moscow",
+      "From the Latin word for oak",
+      "From the name of a scientist",
+      "From the name of a river"
+    ]
+  },
+  {
+    "question": "Where does the name of the element Platinum come from?",
+    "correct": "From Peru, 'little silver of the Pinto river'",
+    "answers": [
+      "From Peru, 'little silver of the Pinto river'",
+      "From the Greek word 'platus'",
+      "From the Latin word 'platinum'",
+      "From the Spanish word 'plata'"
+    ]
+  },
+  {
+    "question": "Where does the name of the element Copper come from?",
+    "correct": "From the Latin corrupted word for Cyprus",
+    "answers": [
+      "From the Latin corrupted word for Cyprus",
+      "From the Latin word 'copperus'",
+      "From the Greek word 'kupros'",
+      "From the Roman god 'Cuprus'"
+    ]
+  },
+  {
+    "question": "Where does the name of the element Lutetium come from?",
+    "correct": "From Lutetia, the old name of Paris",
+    "answers": [
+      "From Lutetia, the old name of Paris",
+      "From the Latin word 'luteus'",
+      "From the Greek word 'luteus'",
+      "From the French word 'luteum'"
+    ]
+  },
+  {
+    "question": "Where does the name of the element Ruthenium come from?",
+    "correct": "From Ruthenia, the old name of Russia",
+    "answers": [
+      "From Ruthenia, the old name of Russia",
+      "From the Latin word 'ruthenium'",
+      "From the Greek word 'ruthenium'",
+      "From the Russian word 'ruthenia'"
+    ]
+  },
+  {
+    "question": "Where does the name of the element Thulium come from?",
+    "correct": "From Thule, the old name of Scandinavia",
+    "answers": [
+      "From Thule, the old name of Scandinavia",
+      "From the Latin word 'thulium'",
+      "From the Greek word 'thulium'",
+      "From the Swedish word 'thule'"
+    ]
+  },
+  {
+    "question": "Where does the name of the element Hafnium come from?",
+    "correct": "From Hafnia, the old name of Copenhagen",
+    "answers": [
+      "From Hafnia, the old name of Copenhagen",
+      "From the Latin word 'hafnium'",
+      "From the Greek word 'hafnium'",
+      "From the Danish word 'hafnium'"
+    ]
+  },
+  {
+    "question": "Where does the name of the element Holmium come from?",
+    "correct": "From Holmia, the old name of Stockholm",
+    "answers": [
+      "From Holmia, the old name of Stockholm",
+      "From the Latin word 'holmium'",
+      "From the Greek word 'holmium'",
+      "From the Swedish word 'holmia'"
+    ]
+  },
+  {
+    "question": "Bronze is an alloy of which metals?",
+    "correct": "Copper and Tin",
+    "answers": [
+      "Copper and Tin",
+      "Copper and Zinc",
+      "Copper and Lead",
+      "Copper and Nickel"
+    ]
+  },
+  {
+    "question": "Brass is an alloy of which metals?",
+    "correct": "Copper and Zinc",
+    "answers": [
+      "Copper and Zinc",
+      "Copper and Tin",
+      "Copper and Lead",
+      "Copper and Nickel"
+    ]
+  },
+  {
+    "question": "In what medium is pure lithium stored?",
+    "correct": "In solid paraffin",
+    "answers": ["In solid paraffin", "In water", "In oil", "In air"]
+  },
+  {
+    "question": "The chloride salt of which element is used for moisture absorption and air cleaning in submarines and airplanes?",
+    "correct": "Lithium (Lithium Chloride)",
+    "answers": [
+      "Lithium (Lithium Chloride)",
+      "Sodium (Sodium Chloride)",
+      "Potassium (Potassium Chloride)",
+      "Calcium (Calcium Chloride)"
+    ]
+  },
+  {
+    "question": "The carbonate salt of which element is used for treating mental illnesses?",
+    "correct": "Lithium (Lithium Carbonate)",
+    "answers": [
+      "Lithium (Lithium Carbonate)",
+      "Sodium (Sodium Carbonate)",
+      "Potassium (Potassium Carbonate)",
+      "Calcium (Calcium Carbonate)"
+    ]
+  }
+]

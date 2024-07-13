@@ -1,0 +1,1068 @@
+[
+  {
+    "question": "Koji izotop ugljenika se koristi za otkrivanje starosti materijala?",
+    "correct": "C-14",
+    "answers": ["C-14", "C-12", "C-13", "C-11"]
+  },
+  {
+    "question": "Koji azotni oksid utiče na pad krvnog pritiska?",
+    "correct": "Azot(II) oksid (NO)",
+    "answers": [
+      "Azot(II) oksid (NO)",
+      "Azot(I) oksid (N<sub>2</sub>O)",
+      "Azot(III) oksid (N<sub>2</sub>O<sub>3</sub>)",
+      "Azot(IV) oksid (NO<sub>2</sub>)"
+    ]
+  },
+  {
+    "question": "Koja su azotova jedinjena otrovna?",
+    "correct": "Cijanovodonik, azot dioksid i amonijak",
+    "answers": [
+      "Cijanovodonik, azot dioksid i amonijak",
+      "Sumpor-vodonik, azot trioksid i urea",
+      "Azotna kiselina, amonijak i azot tetroksid",
+      "Amonijum nitrat, azot pentoksid i urea"
+    ]
+  },
+  {
+    "question": "Koji oksid azota može da izazove smeh?",
+    "correct": "Azot(I) oksid (N<sub>2</sub>O)",
+    "answers": [
+      "Azot(I) oksid (N<sub>2</sub>O)",
+      "Azot(II) oksid (NO)",
+      "Azot(III) oksid (N<sub>2</sub>O<sub>3</sub>)",
+      "Azot(IV) oksid (NO<sub>2</sub>)"
+    ]
+  },
+  {
+    "question": "Koliko atoma kiseonika ima ozon?",
+    "correct": "3",
+    "answers": ["3", "1", "2", "4"]
+  },
+  {
+    "question": "Šta je ozon?",
+    "correct": "Alotropska modifikacija kiseonika",
+    "answers": [
+      "Alotropska modifikacija kiseonika",
+      "Jedinjenje kiseonika i azota",
+      "Izotop kiseonika",
+      "Vrsta molekula kiseonika"
+    ]
+  },
+  {
+    "question": "Sadržaj koje amino kiseline u proteinu keratinu određuje da li će kosa biti ravna ili kovrdžava?",
+    "correct": "Cistein",
+    "answers": ["Cistein", "Metionin", "Lizin", "Arginin"]
+  },
+  {
+    "question": "Koji hemijski element ima najjači oksidacioni potencijal?",
+    "correct": "Fluor",
+    "answers": ["Fluor", "Kiseonik", "Hlor", "Brom"]
+  },
+  {
+    "question": "Tricijum je izotop vodonika. Od koliko protona i neutrona se sastoji njegovo atomsko jezgro?",
+    "correct": "1 proton i 2 neutrona",
+    "answers": [
+      "1 proton i 2 neutrona",
+      "1 proton i 1 neutron",
+      "2 protona i 1 neutron",
+      "2 protona i 2 neutrona"
+    ]
+  },
+  {
+    "question": "Deuterijum je izotop vodonika. Od koliko protona i neutrona se sastoji njegovo atomsko jezgro?",
+    "correct": "1 proton i 1 neutron",
+    "answers": [
+      "1 proton i 1 neutron",
+      "1 proton i 2 neutrona",
+      "2 protona i 1 neutron",
+      "2 protona i 2 neutrona"
+    ]
+  },
+  {
+    "question": "Šta označava Avogadrov broj?",
+    "correct": "Broj čestica u jednom molu supstance",
+    "answers": [
+      "Broj čestica u jednom molu supstance",
+      "Broj atoma u molekulu",
+      "Broj molekula u litru gasa",
+      "Broj protona u atomu"
+    ]
+  },
+  {
+    "question": "Od čega je napravljena vatrostalna posuda sa oznakom PYREX?",
+    "correct": "Bor-silikatnog stakla",
+    "answers": [
+      "Bor-silikatnog stakla",
+      "Kvarcnog stakla",
+      "Soda-lime stakla",
+      "Olovo stakla"
+    ]
+  },
+  {
+    "question": "Metaborati koji imaju vezan vodonik peroksid, koji se upotrebljava za pranje i beljenje vune, svile su?",
+    "correct": "Perborati",
+    "answers": ["Perborati", "Borati", "Peroksidi", "Silikati"]
+  },
+  {
+    "question": "Koje jedinjenje gvožđa daje crvenu boju površini Marsa?",
+    "correct": "Gvožđe(III) oksid",
+    "answers": [
+      "Gvožđe(III) oksid",
+      "Gvožđe(II) oksid",
+      "Gvožđe(III) sulfat",
+      "Gvožđe(II) hlorid"
+    ]
+  },
+  {
+    "question": "Oksid silicijuma je inertan, ali reaguje se jednom kiselinom, kojom?",
+    "correct": "Fluorovodoničnom kiselinom",
+    "answers": [
+      "Fluorovodoničnom kiselinom",
+      "Sumpornom kiselinom",
+      "Azotnom kiselinom",
+      "Fosfornom kiselinom"
+    ]
+  },
+  {
+    "question": "Od čega su izgrađene iglice koprive?",
+    "correct": "Silicijum dioksida",
+    "answers": [
+      "Silicijum dioksida",
+      "Kalijum karbonata",
+      "Magnezijum oksida",
+      "Aluminijum oksida"
+    ]
+  },
+  {
+    "question": "Luizit (dihloro(2-hlorovinil)arsin) je bojni otrov plikavac, koje jedinjenje je protivotrov (antidot)?",
+    "correct": "2,3-dimerkaptopropanol",
+    "answers": [
+      "2,3-dimerkaptopropanol",
+      "Atropin",
+      "Aktivni ugalj",
+      "Natrijum tiosulfat"
+    ]
+  },
+  {
+    "question": "Trovanje arsenom, ako se na vreme primeti, može se rešiti davanjem čega?",
+    "correct": "2,3-dimerkaptopropanol",
+    "answers": ["2,3-dimerkaptopropanol", "Vitamin K", "Helati", "Antibiotici"]
+  },
+  {
+    "question": "Koja biljka u velikoj meri apsorbuje arsen iz zagađenog zemljišta?",
+    "correct": "Kineska paprat (Pteris vittata)",
+    "answers": [
+      "Kineska paprat (Pteris vittata)",
+      "Suncokret",
+      "Kukuruz",
+      "Senf biljka"
+    ]
+  },
+  {
+    "question": "Kako se naziva alotropska modifikacija ugljenika čiji molekul sadrži 60 i više atoma?",
+    "correct": "Fuleren",
+    "answers": ["Fuleren", "Grafen", "Dijamant", "Ugljenikova nanocev"]
+  },
+  {
+    "question": "Koje su alotropske modifikacije ugljenika?",
+    "correct": "Grafit, dijamant i fuleren",
+    "answers": [
+      "Grafit, dijamant i fuleren",
+      "Grafit, dijamant i grafen",
+      "Grafen, dijamant i fuleren",
+      "Grafen, grafit i ugljenikova nanocev"
+    ]
+  },
+  {
+    "question": "Za koji hemijski element je karakteristična 'kuga'?",
+    "correct": "Kalaj",
+    "answers": ["Kalaj", "Olovo", "Živa", "Arsen"]
+  },
+  {
+    "question": "Šta je zapravo 'kalajna kuga'?",
+    "correct": "Prelazak iz jedne alotropske modifikacije u drugu",
+    "answers": [
+      "Prelazak iz jedne alotropske modifikacije u drugu",
+      "Oksidacija kalaja",
+      "Korozija kalaja",
+      "Redukcija kalaja"
+    ]
+  },
+  {
+    "question": "Koji hemijski element kao elementaran i u neorganskim jedinjenjima nije otrovan, ali u organskim jeste?",
+    "correct": "Kalaj",
+    "answers": ["Kalaj", "Olovo", "Živa", "Kadmijum"]
+  },
+  {
+    "question": "Tributil- jedinjenja kog hemijskog elementa se koriste u bojama za brodove?",
+    "correct": "Kalaj",
+    "answers": ["Kalaj", "Bakar", "Cink", "Nik"]
+  },
+  {
+    "question": "Koje jedinjenje olova sprečava 'lupanje' motora?",
+    "correct": "Tetra-etil olovo",
+    "answers": [
+      "Tetra-etil olovo",
+      "Olovo acetat",
+      "Olovo oksid",
+      "Olovo hlorid"
+    ]
+  },
+  {
+    "question": "Koje jedinjenje olova se nekada koristilo za zaslađivanje vina?",
+    "correct": "Olovo acetat",
+    "answers": ["Olovo acetat", "Olovo nitrat", "Olovo oksid", "Olovo hlorid"]
+  },
+  {
+    "question": "Šta su metaloidi?",
+    "correct": "Hemijski elementi sa hemijskim svojstvima nemetala i fizičkim svojstvima metala",
+    "answers": [
+      "Hemijski elementi sa hemijskim svojstvima nemetala i fizičkim svojstvima metala",
+      "Hemijski elementi sa svojstvima metala i gasova",
+      "Hemijski elementi koji su potpuno metalni",
+      "Hemijski elementi koji su potpuno nemetali"
+    ]
+  },
+  {
+    "question": "Šta je boraks?",
+    "correct": "So",
+    "answers": ["So", "Kiselina", "Baza", "Oksid"]
+  },
+  {
+    "question": "Koja je hemijska formula boraksa?",
+    "correct": "Na-tetraborat x 10 H<sub>2</sub>O",
+    "answers": [
+      "Na-tetraborat x 10 H<sub>2</sub>O",
+      "Na<sub>2</sub>B<sub>4</sub>O<sub>7</sub>",
+      "Na<sub>3</sub>BO<sub>3</sub>",
+      "NaBO<sub>2</sub>"
+    ]
+  },
+  {
+    "question": "Koja su to dva konzervansa sa pozitivne liste aditiva u hrani sa oznakama E284 i E285?",
+    "correct": "Borna kiselina i boraks",
+    "answers": [
+      "Borna kiselina i boraks",
+      "Benzoeva kiselina i natrijum benzoat",
+      "Sorbinska kiselina i kalijum sorbat",
+      "Askorbinska kiselina i limunska kiselina"
+    ]
+  },
+  {
+    "question": "Koja dva metala ne grade amalgame?",
+    "correct": "Gvožđe i platina",
+    "answers": [
+      "Gvožđe i platina",
+      "Zlato i srebro",
+      "Bakar i cink",
+      "Nikl i kalaj"
+    ]
+  },
+  {
+    "question": "Koja država je dobila svoj naziv po srebru?",
+    "correct": "Argentina",
+    "answers": ["Argentina", "Australija", "Jermenija", "Austrija"]
+  },
+  {
+    "question": "Jedinjenja kog elementa su odgovorna za potamnjivanje srebrnih predmeta?",
+    "correct": "Sumpora",
+    "answers": ["Sumpora", "Hlora", "Kiseonika", "Azota"]
+  },
+  {
+    "question": "Kojim materijalima se može očistiti potamnelo srebro?",
+    "correct": "Slabim kiselinama i aluminijumom",
+    "answers": [
+      "Slabim kiselinama i aluminijumom",
+      "Vodom i sapunom",
+      "Sirćetom i sodom bikarbonom",
+      "Sokom od limuna i solju"
+    ]
+  },
+  {
+    "question": "Čime se presvlači srebro da bi se zaštitilo od potamnjivanja?",
+    "correct": "Rodijumom",
+    "answers": ["Rodijumom", "Zlatom", "Platinom", "Nikom"]
+  },
+  {
+    "question": "Koje kiseline u odnosu 3:1 čine 'carsku vodu'?",
+    "correct": "Hlorovodonična i azotna kiselina",
+    "answers": [
+      "Hlorovodonična i azotna kiselina",
+      "Sumporna i hlorovodonična kiselina",
+      "Sircetna i limunska kiselina",
+      "Fosforna i mlečna kiselina"
+    ]
+  },
+  {
+    "question": "U čemu se zlato 'rastvara'?",
+    "correct": "Carska voda",
+    "answers": [
+      "Carska voda",
+      "Hlorovodonična kiselina",
+      "Azotna kiselina",
+      "Sumporna kiselina"
+    ]
+  },
+  {
+    "question": "Šta predstavlja 1 karat?",
+    "correct": "Udeo od 4,2% plemenitog metala u leguri",
+    "answers": [
+      "Udeo od 4,2% plemenitog metala u leguri",
+      "Udeo od 5,0% plemenitog metala u leguri",
+      "Udeo od 3,5% plemenitog metala u leguri",
+      "Udeo od 2,8% plemenitog metala u leguri"
+    ]
+  },
+  {
+    "question": "Koliki broj karata predstavlja najveću čistoću plemenitog metala?",
+    "correct": "24",
+    "answers": ["24", "18", "22", "20"]
+  },
+  {
+    "question": "'Zubno zlato' je legura zlata (oko 75%) sa kojim metalima?",
+    "correct": "Srebro, paladijum i cink",
+    "answers": [
+      "Srebro, paladijum i cink",
+      "Bakar, platina i kalaj",
+      "Nik, gvožđe i aluminijum",
+      "Titanijum, olovo i hrom"
+    ]
+  },
+  {
+    "question": "Legura za metalne novčiće se uglavnom pravi od kojih metala?",
+    "correct": "Bakar i nikl",
+    "answers": [
+      "Bakar i nikl",
+      "Cink i kalaj",
+      "Gvožđe i aluminijum",
+      "Srebro i zlato"
+    ]
+  },
+  {
+    "question": "Koliko g gvožđa sadrži organizam prosečnog čoveka?",
+    "correct": "3-4 g",
+    "answers": ["3-4 g", "1-2 g", "5-6 g", "7-8 g"]
+  },
+  {
+    "question": "Šta je po hemijskoj strukturi hemoglobin?",
+    "correct": "Protein",
+    "answers": ["Protein", "Ugljeni hidrat", "Lipid", "Mineral"]
+  },
+  {
+    "question": "Koji vitamin olakšava apsorpciju gvožđa u ljudskom organizmu?",
+    "correct": "Vitamin C",
+    "answers": ["Vitamin C", "Vitamin D", "Vitamin B12", "Vitamin K"]
+  },
+  {
+    "question": "S čim bogate namernice smanjuju apsorpciju gvožđa u ljudskom organizmu?",
+    "correct": "Fosfatima",
+    "answers": ["Fosfatima", "Kalcijumom", "Vitaminom D", "Vlaknima"]
+  },
+  {
+    "question": "Ko je odgovoran za crvenu boju krvi?",
+    "correct": "Kompleks jona dvovalentnog gvožđa u hemoglobinu",
+    "answers": [
+      "Kompleks jona dvovalentnog gvožđa u hemoglobinu",
+      "Hemoglobin",
+      "Mioglobin",
+      "Eritrociti"
+    ]
+  },
+  {
+    "question": "Od čega potiče plava boja krvi kod hobotnica?",
+    "correct": "Kompleks jona bakra u hemocijaninu",
+    "answers": [
+      "Kompleks jona bakra u hemocijaninu",
+      "Kompleks jona gvožđa u hemoglobinu",
+      "Hemoglobin",
+      "Mioglobin"
+    ]
+  },
+  {
+    "question": "U koje jedinjenje su nekada šeširdžije potapale krzna zečeva?",
+    "correct": "Živa(II) nitrat",
+    "answers": [
+      "Živa(II) nitrat",
+      "Natrijum nitrat",
+      "Bakar(II) sulfat",
+      "Srebrni nitrat"
+    ]
+  },
+  {
+    "question": "Koji element izrazito privlači živu?",
+    "correct": "Sumpor",
+    "answers": ["Sumpor", "Gvožđe", "Olovo", "Bakar"]
+  },
+  {
+    "question": "Koji je osnovni element amalgama?",
+    "correct": "Živa",
+    "answers": ["Živa", "Srebro", "Kalaj", "Zlato"]
+  },
+  {
+    "question": "Ko je kum simbola hemijskih elemenata?",
+    "correct": "Jens Jakob Bercelijus",
+    "answers": [
+      "Jens Jakob Bercelijus",
+      "Dmitri Mendeljejev",
+      "Marija Kiri",
+      "Džon Dalton"
+    ]
+  },
+  {
+    "question": "Koja je najmanja čestica hemijskog elementa?",
+    "correct": "Atom",
+    "answers": ["Atom", "Molekul", "Proton", "Elektron"]
+  },
+  {
+    "question": "Ukupnom broju čega odgovara broj od 7 perioda u tablici periodnog sistema?",
+    "correct": "Broju energetskih nivoa",
+    "answers": [
+      "Broju energetskih nivoa",
+      "Elementima",
+      "Valentnim elektronima",
+      "Neutronima"
+    ]
+  },
+  {
+    "question": "Relativna atomska masa je broj koji pokazuje koliko je puta masa atoma nekog elementa veća od?",
+    "correct": "1/12 mase atoma ugljenikovog izotopa C-12",
+    "answers": [
+      "1/12 mase atoma ugljenikovog izotopa C-12",
+      "1/16 mase atoma kiseonikovog izotopa O-16",
+      "1/14 mase atoma azototovog izotopa N-14",
+      "1/2 mase atoma vodonikovog izotopa dueterijuma"
+    ]
+  },
+  {
+    "question": "Šta određuje valencu nekog hemijskog elementa?",
+    "correct": "Broj elektrona koji učestvuje u građenju neke veze",
+    "answers": [
+      "Broj elektrona koji učestvuje u građenju neke veze",
+      "Broj protona",
+      "Atomski broj",
+      "Atoma masa"
+    ]
+  },
+  {
+    "question": "Sposobnost atoma nekog elementa da stvara hemijske veze sa atomima istog ili drugih elemenata nazive se?",
+    "correct": "Valentnost",
+    "answers": [
+      "Valentnost",
+      "Elektronegativnost",
+      "Jonizacijska energija",
+      "Atomski radijus"
+    ]
+  },
+  {
+    "question": "Kojom bojom litijum hlorid (LiCl) boji plamen Bunzenove grejalice?",
+    "correct": "Karmin-crvenom",
+    "answers": ["Karmin-crvenom", "Žutom", "Zelenom", "Plavom"]
+  },
+  {
+    "question": "Kojom bojom natrijum hlorid (NaCl) boji plamen Bunzenove grejalice?",
+    "correct": "Žutom",
+    "answers": ["Žutom", "Crvenom", "Zelenom", "Plavom"]
+  },
+  {
+    "question": "Šta je po hemijskom sastavu 'Čilska šalitra'?",
+    "correct": "Natrijum nitrat (NaNO<sub>3</sub>)",
+    "answers": [
+      "Natrijum nitrat (NaNO<sub>3</sub>)",
+      "Natrijum sulfat (Na<sub>2</sub>SO<sub>4</sub>)",
+      "Kalijum nitrat (KNO<sub>3</sub>)",
+      "Amonijum nitrat (NH<sub>4</sub>NO<sub>3</sub>)"
+    ]
+  },
+  {
+    "question": "Koje jedinjenje natrijuma je sastojak smeše kojim se pune er-bagovi u kolima?",
+    "correct": "Natrijum azid (NaN<sub>3</sub>)",
+    "answers": [
+      "Natrijum azid (NaN<sub>3</sub>)",
+      "Natrijum hlorid (NaCl)",
+      "Natrijum bikarbonat (NaHCO<sub>3</sub>)",
+      "Natrijum sulfat (Na<sub>2</sub>SO<sub>4</sub>)"
+    ]
+  },
+  {
+    "question": "Koliko procenata (%) natrijum hlorida (NaCl) sadrži infuzioni rastvor?",
+    "correct": "0.9%",
+    "answers": ["0.9%", "1.5%", "2.0%", "0.5%"]
+  },
+  {
+    "question": "Koja je preporučena dnevna doza kalijuma (K) u g?",
+    "correct": "oko 3.5 g",
+    "answers": ["oko 3.5 g", "oko 2.0 g", "oko 4.5 g", "oko 5.0 g"]
+  },
+  {
+    "question": "Koje jedinjenje kalijuma služi kao izvor kiseonika u mestima gde dolazi do nedostatka kiseonika u vazduhu?",
+    "correct": "Kalijum superoksid (KO<sub>2</sub>)",
+    "answers": [
+      "Kalijum superoksid (KO<sub>2</sub>)",
+      "Kalijum hlorid (KCl)",
+      "Kalijum nitrat (KNO<sub>3</sub>)",
+      "Kalijum permanganat (KMnO<sub>4</sub>)"
+    ]
+  },
+  {
+    "question": "S kojim gasom reaguje kalijum superoksid da bi se dobio nedostajući kiseonik?",
+    "correct": "Ugljen dioksidom (CO<sub>2</sub>)",
+    "answers": [
+      "Ugljen dioksidom (CO<sub>2</sub>)",
+      "Kiseonikom (O<sub>2</sub>)",
+      "Azotom (N<sub>2</sub>)",
+      "Helijumom (He)"
+    ]
+  },
+  {
+    "question": "Koje jedinjenje kalijuma, ako se njime 'posole' oblaci, udvostručuje količinu padavina?",
+    "correct": "Kalijum hlorid (KCl)",
+    "answers": [
+      "Kalijum hlorid (KCl)",
+      "Kalijum nitrat (KNO<sub>3</sub>)",
+      "Kalijum sulfat (K<sub>2</sub>SO<sub>4</sub>)",
+      "Kalijum jodid (KI)"
+    ]
+  },
+  {
+    "question": "Koji hemijski element (metal) se nalazi (čini kompleks sa) u molekulu hlorofila?",
+    "correct": "Magnezijum (Mg)",
+    "answers": [
+      "Magnezijum (Mg)",
+      "Kalcijum (Ca)",
+      "Gvožđe (Fe)",
+      "Kalijum (K)"
+    ]
+  },
+  {
+    "question": "Kako se gasi plamen zapaljenog magnezijuma?",
+    "correct": "prekrivanje peskom",
+    "answers": ["prekrivanje peskom", "Vodom", "Ugljen dioksidom", "Penom"]
+  },
+  {
+    "question": "Od legure kog metala su napravljeni ramovi bicikala za trke?",
+    "correct": "Od magnezijuma (Mg)",
+    "answers": [
+      "Od magnezijuma (Mg)",
+      "Od aluminijuma (Al)",
+      "Od titanijuma (Ti)",
+      "Od ugljenika (C)"
+    ]
+  },
+  {
+    "question": "Koliko puta je lakši ram bicikla napravljenog od legura magnezijuma u odnosu na onaj od gvožđa ili aluminijuma?",
+    "correct": "5 puta, odnosno 1.5 puta",
+    "answers": [
+      "5 puta, odnosno 1.5 puta",
+      "3 puta, odnosno 2 puta",
+      "2 puta, odnosno 4 puta",
+      "1.5 puta, odnosno 5 puta"
+    ]
+  },
+  {
+    "question": "Koje jedinjenje magnezijuma, poznato i kao Epsomova so, se koristi kao laksativ?",
+    "correct": "Magnezijum sulfat (MgSO<sub>4</sub>)",
+    "answers": [
+      "Magnezijum sulfat (MgSO<sub>4</sub>)",
+      "Magnezijum hlorid (MgCl<sub>2</sub>)",
+      "Magnezijum karbonat (MgCO<sub>3</sub>)",
+      "Magnezijum hidroksid (Mg(OH)<sub>2</sub>)"
+    ]
+  },
+  {
+    "question": "Koje je najrasprostranjenije jedinjenje kalcijuma (Ca)?",
+    "correct": "Kalcijum karbonat (CaCO<sub>3</sub>)",
+    "answers": [
+      "Kalcijum karbonat (CaCO<sub>3</sub>)",
+      "Kalcijum sulfat (CaSO<sub>4</sub>)",
+      "Kalcijum hlorid (CaCl<sub>2</sub>)",
+      "Kalcijum hidroksid (Ca(OH)<sub>2</sub>)"
+    ]
+  },
+  {
+    "question": "Koja je hemijska formula za 'negašeni ili živi' kreč?",
+    "correct": "Kalcijum oksid (CaO)",
+    "answers": [
+      "Kalcijum oksid (CaO)",
+      "Kalcijum hidroksid (Ca(OH)<sub>2</sub>)",
+      "Kalcijum karbonat (CaCO<sub>3</sub>)",
+      "Kalcijum hlorid (CaCl<sub>2</sub>)"
+    ]
+  },
+  {
+    "question": "Koja je hemijska formula za gašeni kreč?",
+    "correct": "Kalcijum hidroksid (Ca(OH)<sub>2</sub>)",
+    "answers": [
+      "Kalcijum hidroksid (Ca(OH)<sub>2</sub>)",
+      "Kalcijum oksid (CaO)",
+      "Kalcijum karbonat (CaCO<sub>3</sub>)",
+      "Kalcijum sulfat (CaSO<sub>4</sub>)"
+    ]
+  },
+  {
+    "question": "Koja je preporučena dnevna doza kalcijuma (Ca)?",
+    "correct": "oko 1 g",
+    "answers": ["oko 1 g", "oko 0.5 g", "oko 2 g", "oko 1.5 g"]
+  },
+  {
+    "question": "Koja 2 kalcijumova jedinjenja grade 'kamen' u bubregu?",
+    "correct": "Kalcijum oksalat i kalcijum fosfat",
+    "answers": [
+      "Kalcijum oksalat i kalcijum fosfat",
+      "Kalcijum sulfat i kalcijum hlorid",
+      "Kalcijum karbonat i kalcijum sulfat",
+      "Kalcijum hidroksid i kalcijum karbonat"
+    ]
+  },
+  {
+    "question": "Sa čija 2 jona kalcijumovi joni grade 'kamen' u žučnoj kesi?",
+    "correct": "Jonima bilirubina i jonima karbonata",
+    "answers": [
+      "Jonima bilirubina i jonima karbonata",
+      "Jonima sulfata i jonima hlorida",
+      "Jonima fosfata i jonima oksalata",
+      "Jonima hidroksida i jonima nitrata"
+    ]
+  },
+  {
+    "question": "Šta je litopon?",
+    "correct": "Pigment sjajne bele boje",
+    "answers": [
+      "Pigment sjajne bele boje",
+      "Vrsta gline",
+      "Oblik kalcijum karbonata",
+      "Vrsta stakla"
+    ]
+  },
+  {
+    "question": "Litopon je smeša kojih hemijskih jedinjenja?",
+    "correct": "Barijum sulfata (BaSO<sub>4</sub>) i cink sulfida (ZnS)",
+    "answers": [
+      "Barijum sulfata (BaSO<sub>4</sub>) i cink sulfida (ZnS)",
+      "Barijum hlorida (BaCl<sub>2</sub>) i cink oksida (ZnO)",
+      "Barijum nitrata (Ba(NO<sub>3</sub>)<sub>2</sub>) i cink karbonata (ZnCO<sub>3</sub>)",
+      "Barijum hidroksida (Ba(OH)<sub>2</sub>) i cink sulfata (ZnSO<sub>4</sub>)"
+    ]
+  },
+  {
+    "question": "Kojom bojom soli barijuma (Ba) boje plamen Bunzenove grejalice?",
+    "correct": "Zelenom",
+    "answers": ["Zelenom", "Plavom", "Žutom", "Crvenom"]
+  },
+  {
+    "question": "Koji metal je najzastupljeniji u Zemljinoj kori?",
+    "correct": "Aluminijum (Al)",
+    "answers": [
+      "Aluminijum (Al)",
+      "Gvožđe (Fe)",
+      "Silicijum (Si)",
+      "Kiseonik (O)"
+    ]
+  },
+  {
+    "question": "Koja je najvažnija ruda aluminijuma?",
+    "correct": "Boksit",
+    "answers": ["Boksit", "Hematit", "Magnetit", "Galena"]
+  },
+  {
+    "question": "Koje jedinjenje bakra je odgovorno za zelenu boju ('zelena patina') krovova napravljenih od ovog metala?",
+    "correct": "Bakrov bazni karbonat (CuCO<sub>3</sub> x Cu(OH)<sub>2</sub>)",
+    "answers": [
+      "Bakrov bazni karbonat (CuCO<sub>3</sub> x Cu(OH)<sub>2</sub>)",
+      "Bakar sulfat (CuSO<sub>4</sub>)",
+      "Bakar oksid (CuO)",
+      "Bakar hlorid (CuCl<sub>2</sub>)"
+    ]
+  },
+  {
+    "question": "Šta je po hemijskom sastavu 'plavi kamen' ili 'modra galica'?",
+    "correct": "Bakar(II) sulfat pentahidrat (CuSO<sub>4</sub> x 5H<sub>2</sub>O)",
+    "answers": [
+      "Bakar(II) sulfat pentahidrat (CuSO<sub>4</sub> x 5H<sub>2</sub>O)",
+      "Bakar(II) hlorid (CuCl<sub>2</sub>)",
+      "Bakar(I) oksid (Cu<sub>2</sub>O)",
+      "Bakar(II) nitrat (Cu(NO<sub>3</sub>)<sub>2</sub>)"
+    ]
+  },
+  {
+    "question": "Koje su boje kristali bezvodnog bakar(II) sulfata?",
+    "correct": "Zelenobele ili sivobele",
+    "answers": ["Zelenobele ili sivobele", "Plave", "Crvene", "Žute"]
+  },
+
+  {
+    "question": "Koja je hemijska formula za vodu?",
+    "correct": "H<sub>2</sub>O",
+    "answers": [
+      "H<sub>2</sub>O",
+      "H<sub>2</sub>O<sub>2</sub>",
+      "H<sub>2</sub>S",
+      "HO"
+    ]
+  },
+  {
+    "question": "Koja je hemijska formula za kuhinjsku so?",
+    "correct": "NaCl",
+    "answers": ["NaCl", "KCl", "NaOH", "CaCl<sub>2</sub>"]
+  },
+  {
+    "question": "Izjednačite jednačinu: NaOH + HCl = NaCl + H<sub>2</sub>O",
+    "correct": "NaOH + HCl = NaCl + H<sub>2</sub>O",
+    "answers": [
+      "NaOH + HCl = NaCl + H<sub>2</sub>O",
+      "NaOH + HCl = NaCl + H<sub>2</sub>O<sub>2</sub>",
+      "NaOH + HCl = NaCl<sub>2</sub> + H<sub>2</sub>O",
+      "NaOH + H<sub>2</sub>O = NaCl + HCl"
+    ]
+  },
+  {
+    "question": "Koji je najzastupljeniji element u Zemljinoj kori?",
+    "correct": "Kiseonik",
+    "answers": ["Kiseonik", "Silicijum", "Aluminijum", "Gvožđe"]
+  },
+  {
+    "question": "Koji je najzastupljeniji element u vazduhu?",
+    "correct": "Azot",
+    "answers": ["Kiseonik", "Ugljen-dioksid", "Azot", "Argon"]
+  },
+  {
+    "question": "Koji je najzastupljeniji element u univerzumu?",
+    "correct": "Vodonik",
+    "answers": ["Vodonik", "Helijum", "Kiseonik", "Ugljenik"]
+  },
+  {
+    "question": "Koji je najlakši element?",
+    "correct": "Vodonik",
+    "answers": ["Vodonik", "Helijum", "Litijum", "Berilijum"]
+  },
+  {
+    "question": "Koji je najteži element?",
+    "correct": "Oganeson",
+    "answers": ["Oganeson", "Uranijum", "Plutonijum", "Radon"]
+  },
+  {
+    "question": "Koji element ima najnižu gustinu?",
+    "correct": "Vodonik",
+    "answers": ["Vodonik", "Helijum", "Litijum", "Neon"]
+  },
+  {
+    "question": "Koji element ima najvišu gustinu?",
+    "correct": "Osmijum",
+    "answers": ["Osmijum", "Iridijum", "Platina", "Zlato"]
+  },
+  {
+    "question": "Koji je najlakši metal?",
+    "correct": "Litijum",
+    "answers": ["Litijum", "Natrijum", "Kalijum", "Magnezijum"]
+  },
+  {
+    "question": "Koji je najteži metal?",
+    "correct": "Osmijum",
+    "answers": ["Osmijum", "Iridijum", "Platina", "Zlato"]
+  },
+  {
+    "question": "Ko je najbolji provodnik elektriciteta?",
+    "correct": "Srebro",
+    "answers": ["Srebro", "Bakar", "Zlato", "Aluminijum"]
+  },
+  {
+    "question": "Ko je najgori provodnik elektriciteta?",
+    "correct": "Sumpor",
+    "answers": ["Sumpor", "Guma", "Drvo", "Voda"]
+  },
+  {
+    "question": "Koji je najtvrđi element?",
+    "correct": "Ugljenik u obliku dijamanta",
+    "answers": ["Ugljenik u obliku dijamanta", "Bor", "Volfram", "Hrom"]
+  },
+  {
+    "question": "Koji je najmekši element?",
+    "correct": "Cezijum",
+    "answers": ["Cezijum", "Rubidijum", "Olovo", "Zlato"]
+  },
+  {
+    "question": "Koji je najtečniji element na 25°C?",
+    "correct": "Živa",
+    "answers": ["Živa", "Brom", "Galijum", "Cezijum"]
+  },
+  {
+    "question": "Koji metal najbolje reflektuje svetlost?",
+    "correct": "Srebro",
+    "answers": ["Srebro", "Zlato", "Aluminijum", "Platina"]
+  },
+  {
+    "question": "Ko je mislio da sve potiče od vode?",
+    "correct": "Tales",
+    "answers": ["Tales", "Anaksimen", "Heraklit", "Empedokle"]
+  },
+  {
+    "question": "Ko je mislio da sve potiče od vazduha?",
+    "correct": "Anaksimen",
+    "answers": ["Anaksimen", "Tales", "Heraklit", "Empedokle"]
+  },
+  {
+    "question": "Ko je mislio da sve potiče od vatre?",
+    "correct": "Heraklit",
+    "answers": ["Heraklit", "Tales", "Anaksimen", "Empedokle"]
+  },
+  {
+    "question": "Ko je uveo četiri principa kao pokretače svega?",
+    "correct": "Empedokle",
+    "answers": ["Empedokle", "Tales", "Anaksimen", "Heraklit"]
+  },
+  {
+    "question": "Koji su četiri principa Empedokla?",
+    "correct": "Vatra, Voda, Vazduh, Zemlja",
+    "answers": [
+      "Vatra, Voda, Vazduh, Zemlja",
+      "Vatra, Voda, Metal, Drvo",
+      "Vatra, Zemlja, Metal, Voda",
+      "Voda, Vazduh, Drvo, Zemlja"
+    ]
+  },
+  {
+    "question": "Koji je peti element koji je Aristotel dodao Empedoklovim principima?",
+    "correct": "Eter",
+    "answers": ["Eter", "Kvintesencija", "Duša", "Duh"]
+  },
+  {
+    "question": "Koliko je hemijskih elemenata bilo poznato do kraja 18. veka?",
+    "correct": "28",
+    "answers": ["28", "30", "25", "20"]
+  },
+  {
+    "question": "Ko je prvi uveo triade u sistematizaciji hemijskih elemenata?",
+    "correct": "Johann Döbereiner",
+    "answers": [
+      "Johann Döbereiner",
+      "Dmitri Mendelejev",
+      "Jöns Jacob Berzelius",
+      "Robert Bojl"
+    ]
+  },
+  {
+    "question": "Koliko je hemijskih elemenata bilo poznato kada je Mendelejev napravio svoju tabelu?",
+    "correct": "63",
+    "answers": ["63", "60", "65", "70"]
+  },
+  {
+    "question": "Mendelejev je predvideo otkriće eka-aluminijuma, koji je to današnji element?",
+    "correct": "Galijum",
+    "answers": ["Galijum", "Indijum", "Talijum", "Aluminijum"]
+  },
+  {
+    "question": "Mendelejev je predvideo otkriće eka-bora, koji je to današnji element?",
+    "correct": "Skandijum",
+    "answers": ["Skandijum", "Itrijum", "Lantan", "Aktinijum"]
+  },
+  {
+    "question": "Mendelejev je predvideo otkriće eka-silicijuma, koji je to današnji element?",
+    "correct": "Germanijum",
+    "answers": ["Germanijum", "Silicijum", "Kalaj", "Olovo"]
+  },
+  {
+    "question": "Koliko poznatih hemijskih elemenata postoji danas?",
+    "correct": "118",
+    "answers": ["118", "120", "115", "112"]
+  },
+  {
+    "question": "Ko je otkrio galijum i kada?",
+    "correct": "Paul-Émile Lecoq de Boisbaudran 1875.",
+    "answers": [
+      "Paul-Émile Lecoq de Boisbaudran 1875.",
+      "Henri Moissan 1893.",
+      "André-Louis Debierne 1900.",
+      "Marie Curie 1911."
+    ]
+  },
+  {
+    "question": "Ko je otkrio skandijum i kada?",
+    "correct": "Lars Fredrik Nilson 1879.",
+    "answers": [
+      "Lars Fredrik Nilson 1879.",
+      "Carl Gustav Mosander 1843.",
+      "Per Teodor Cleve 1879.",
+      "Paul-Émile Lecoq de Boisbaudran 1875."
+    ]
+  },
+  {
+    "question": "Ko je otkrio germanijum i kada?",
+    "correct": "Clemens Winkler 1886.",
+    "answers": [
+      "Clemens Winkler 1886.",
+      "Paul-Émile Lecoq de Boisbaudran 1875.",
+      "Henri Moissan 1893.",
+      "André-Louis Debierne 1900."
+    ]
+  },
+  {
+    "question": "Koliko grupa i perioda ima u periodnom sistemu elemenata?",
+    "correct": "18 grupa i 7 perioda",
+    "answers": [
+      "18 grupa i 7 perioda",
+      "16 grupa i 7 perioda",
+      "18 grupa i 8 perioda",
+      "17 grupa i 7 perioda"
+    ]
+  },
+  {
+    "question": "Koji je atomski broj Mendelevijuma (Md) u periodnom sistemu?",
+    "correct": "101",
+    "answers": ["101", "100", "102", "103"]
+  },
+  {
+    "question": "Šta određuje položaj elemenata u periodnom sistemu?",
+    "correct": "Njihov atomski broj",
+    "answers": [
+      "Njihov atomski broj",
+      "Njihov maseni broj",
+      "Njihova gustina",
+      "Njihova elektronegativnost"
+    ]
+  },
+  {
+    "question": "Kako se izotopi jednog elementa razlikuju?",
+    "correct": "Po masenom broju",
+    "answers": [
+      "Po masenom broju",
+      "Po atomskom broju",
+      "Po gustini",
+      "Po tački topljenja"
+    ]
+  },
+  {
+    "question": "Šta uzrokuje razliku u masenim brojevima izotopa elementa?",
+    "correct": "Broj neutrona",
+    "answers": [
+      "Broj neutrona",
+      "Broj protona",
+      "Broj elektrona",
+      "Broj kvarkova"
+    ]
+  },
+  {
+    "question": "Odakle potiče naziv elementa Dubnijum?",
+    "correct": "Od grada Dubne blizu Moskve",
+    "answers": [
+      "Od grada Dubne blizu Moskve",
+      "Od latinske reči za hrast",
+      "Po imenu naučnika",
+      "Po imenu reke"
+    ]
+  },
+  {
+    "question": "Odakle potiče naziv elementa Platina?",
+    "correct": "Iz Perua, 'malo srebro reke Pinto'",
+    "answers": [
+      "Iz Perua, 'malo srebro reke Pinto'",
+      "Od grčke reči 'platus'",
+      "Od latinske reči 'platinum'",
+      "Od španske reči 'plata'"
+    ]
+  },
+  {
+    "question": "Odakle potiče naziv elementa Bakar?",
+    "correct": "Iz iskrivljenog latinskog naziva za Kipar",
+    "answers": [
+      "Iz iskrivljenog latinskog naziva za Kipar",
+      "Od latinske reči 'copperus'",
+      "Od grčke reči 'kupros'",
+      "Po rimskom bogu 'Cuprus'"
+    ]
+  },
+  {
+    "question": "Odakle potiče naziv elementa Lutecijum?",
+    "correct": "Od Lutecije, starog imena Pariza",
+    "answers": [
+      "Od Lutecije, starog imena Pariza",
+      "Od latinske reči 'luteus'",
+      "Od grčke reči 'luteus'",
+      "Od francuske reči 'luteum'"
+    ]
+  },
+  {
+    "question": "Odakle potiče naziv elementa Rutenijum?",
+    "correct": "Od Rutenije, starog imena Rusije",
+    "answers": [
+      "Od Rutenije, starog imena Rusije",
+      "Od latinske reči 'ruthenium'",
+      "Od grčke reči 'ruthenium'",
+      "Od ruske reči 'ruthenia'"
+    ]
+  },
+  {
+    "question": "Odakle potiče naziv elementa Tulijum?",
+    "correct": "Od Tule, starog imena Skandinavije",
+    "answers": [
+      "Od Tule, starog imena Skandinavije",
+      "Od latinske reči 'thulium'",
+      "Od grčke reči 'thulium'",
+      "Od švedske reči 'thule'"
+    ]
+  },
+  {
+    "question": "Odakle potiče naziv elementa Hafnijum?",
+    "correct": "Od Hafnije, starog imena Kopenhagena",
+    "answers": [
+      "Od Hafnije, starog imena Kopenhagena",
+      "Od latinske reči 'hafnium'",
+      "Od grčke reči 'hafnium'",
+      "Od danske reči 'hafnium'"
+    ]
+  },
+  {
+    "question": "Odakle potiče naziv elementa Holmijum?",
+    "correct": "Od Holmije, starog imena Stokholma",
+    "answers": [
+      "Od Holmije, starog imena Stokholma",
+      "Od latinske reči 'holmium'",
+      "Od grčke reči 'holmium'",
+      "Od švedske reči 'holmia'"
+    ]
+  },
+  {
+    "question": "Bronza je legura kojih metala?",
+    "correct": "Bakra i Kalaja",
+    "answers": [
+      "Bakra i Kalaja",
+      "Bakra i Cinka",
+      "Bakra i Olova",
+      "Bakra i Nikla"
+    ]
+  },
+  {
+    "question": "Mesing je legura kojih metala?",
+    "correct": "Bakra i Cinka",
+    "answers": [
+      "Bakra i Cinka",
+      "Bakra i Kalaja",
+      "Bakra i Olova",
+      "Bakra i Nikla"
+    ]
+  },
+  {
+    "question": "U kom medijumu se čuva čist litijum?",
+    "correct": "U čvrstom parafinu",
+    "answers": ["U čvrstom parafinu", "U vodi", "U ulju", "U vazduhu"]
+  },
+  {
+    "question": "Hloridna so kog elementa se koristi za apsorpciju vlage i čišćenje vazduha u podmornicama i avionima?",
+    "correct": "Litijum (Litijum hlorid)",
+    "answers": [
+      "Litijum (Litijum hlorid)",
+      "Natrijum (Natrijum hlorid)",
+      "Kalijum (Kalijum hlorid)",
+      "Kalcijum (Kalcijum hlorid)"
+    ]
+  },
+  {
+    "question": "Karbonatna so kog elementa se koristi za lečenje mentalnih bolesti?",
+    "correct": "Litijum (Litijum karbonat)",
+    "answers": [
+      "Litijum (Litijum karbonat)",
+      "Natrijum (Natrijum karbonat)",
+      "Kalijum (Kalijum karbonat)",
+      "Kalcijum (Kalcijum karbonat)"
+    ]
+  }
+]

@@ -1,0 +1,303 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  font-size: 16px;
+  margin: 0;
+  text-align: center;
+}
+
+#initial-welcome-page {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url("./image/A\ chemistry-themed\ background\ image\ for\ a\ quiz\ application.png")
+    no-repeat center center fixed;
+  background-size: cover;
+}
+
+#welcome-page {
+  background-color: #003554;
+  color: #fefefe;
+  display: none;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 20px;
+}
+
+h1,
+p {
+  font-family: "Poetsen One", sans-serif;
+  color: #f7b318;
+  font-weight: bold;
+}
+
+#welcome-page ul {
+  text-align: left;
+  padding: 0;
+  margin: 0;
+}
+
+ul li {
+  padding-bottom: 5px;
+  list-style: disc;
+}
+
+.glass-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  width: 30rem;
+  height: 20rem;
+  max-width: 600px;
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  -webkit-backdrop-filter: blur(10px);
+  -moz-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+  color: #fff;
+}
+
+/* Fallback for browsers that do not support backdrop-filter */
+.glass-card {
+  background-color: rgba(255, 255, 255, 0.2); /* Semi-transparent background */
+  border: 1px solid rgba(255, 255, 255, 0.18); /* Border to create a similar effect */
+}
+
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+  background-color: #003554;
+  color: #fff;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.start-quiz,
+.exit,
+.english,
+.srpski {
+  background-color: #b0183d;
+  border: 1px solid #b0183d;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0 2px 2px, rgba(0, 0, 0, 0.1) 0 4px 4px,
+    rgba(0, 0, 0, 0.1) 0 8px 8px, rgba(0, 0, 0, 0.1) 0 16px 16px,
+    rgba(0, 0, 0, 0.1) 0 32px 32px, rgba(0, 0, 0, 0.1) 0 64px 64px;
+}
+
+.start-quiz:hover,
+.exit:hover,
+.english:hover,
+.srpski:hover {
+  background-color: #e32e58;
+}
+
+.btn-class-name {
+  --primary: 255, 90, 120;
+  --secondary: 150, 50, 60;
+  width: 60px;
+  height: 50px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  -webkit-user-select: none;
+  user-select: none;
+  touch-action: manipulation;
+  outline: 10px solid rgb(var(--primary), 0.5);
+  border-radius: 100%;
+  position: relative;
+  transition: 0.3s;
+}
+
+.btn-class-name .back {
+  background: rgb(var(--secondary));
+  border-radius: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.btn-class-name .front {
+  background: linear-gradient(
+    0deg,
+    rgba(var(--primary), 0.6) 20%,
+    rgba(var(--primary)) 50%
+  );
+  box-shadow: 0 0.5em 1em -0.2em rgba(var(--secondary), 0.5);
+  border-radius: 100%;
+  position: absolute;
+  border: 1px solid rgb(var(--secondary));
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.2rem;
+  font-weight: 600;
+  font-family: inherit;
+  transform: translateY(-15%);
+  transition: 0.15s;
+  color: rgb(var(--secondary));
+}
+
+.btn-class-name:active .front {
+  transform: translateY(0%);
+  box-shadow: 0 0;
+}
+
+#quiz-page {
+  display: none;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 20px;
+  background-color: #8aaee0;
+}
+
+#answers {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#question {
+  width: 70%;
+  margin: 100px auto 50px;
+}
+
+#timer {
+  display: none;
+  margin-top: 20px;
+  font-size: 1.5rem;
+}
+
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.modal-content {
+  background-color: #003554;
+  color: #fefefe;
+  margin: 15% auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+  max-width: 400px;
+  text-align: center;
+}
+
+.blurred {
+  filter: blur(5px); /* Blur effect */
+}
+
+/* Common styles for all screen sizes */
+/* Common styles for all screen sizes */
+.answer {
+  width: 50%;
+  margin: 10px 0;
+  padding: 15px;
+  font-size: 1rem;
+  border: 2px solid #003554;
+  cursor: pointer;
+  background-color: #003554; /* Default background color */
+  color: #f7b318;
+  transition: background-color 0.3s ease; /* Smooth transition */
+}
+
+.answer:hover {
+  background-color: #0056b3; /* Hover color */
+}
+
+.answer.correct {
+  background-color: green;
+  color: #f7b318;
+}
+
+.answer.wrong {
+  background-color: #b0183d;
+  color: #f7b318;
+}
+
+/* Responsive design */
+/* Remove hover effect on small screens (for touch devices only) */
+@media (max-width: 768px) {
+  .answer {
+    width: 90%;
+  }
+  h1,
+  h2,
+  p {
+    font-size: 1.2rem;
+  }
+  #timer {
+    font-size: 1.2rem;
+  }
+
+  /* Only apply this style if the device is touch-enabled */
+  @media (hover: none) {
+    .answer:hover {
+      background-color: #003554; /* Same as default background color */
+    }
+  }
+}
+
+@media (max-width: 480px) {
+  .answer {
+    width: 95%;
+  }
+  h1,
+  h2,
+  p {
+    font-size: 1rem;
+  }
+  #timer {
+    font-size: 1rem;
+  }
+
+  /* Only apply this style if the device is touch-enabled */
+  @media (hover: none) {
+    .answer:hover {
+      background-color: #003554; /* Same as default background color */
+    }
+  }
+}
+
+/* Adding a fallback for browsers that do not support backdrop-filter */
+@supports not (
+  (-webkit-backdrop-filter: blur(10px)) or (backdrop-filter: blur(10px))
+) {
+  .glass-card {
+    background: rgba(255, 255, 255, 0.8);
+    color: #000; /* Adjust text color for better contrast */
+  }
+}
