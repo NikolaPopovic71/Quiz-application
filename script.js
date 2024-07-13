@@ -131,9 +131,9 @@ function showQuestion() {
   }
 
   const questionData = selectedQuestions[currentQuestionIndex];
-  document.getElementById("question").innerText = `${
+  document.getElementById("question").innerHTML = `${
     currentQuestionIndex + 1
-  }. ${questionData.question}`;
+  }. ${questionData.question}`; // Use innerHTML here
 
   const shuffledAnswers = questionData.answers.sort(() => Math.random() - 0.5);
   shuffledAnswers.forEach((answer, index) => {
@@ -147,6 +147,7 @@ function showQuestion() {
 
   document.getElementById("answers").classList.remove("no-hover");
 }
+
 
 function checkAnswer(selectedIndex) {
   const questionData = selectedQuestions[currentQuestionIndex];
